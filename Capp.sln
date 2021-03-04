@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Capp", "Capp\Capp.vcxproj", "{43F042D4-F2BE-43A7-A075-913470342BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Debug|x64.ActiveCfg = Debug|x64
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Debug|x64.Build.0 = Debug|x64
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Debug|x86.Build.0 = Debug|Win32
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Release|x64.ActiveCfg = Release|x64
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Release|x64.Build.0 = Release|x64
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Release|x86.ActiveCfg = Release|Win32
+		{43F042D4-F2BE-43A7-A075-913470342BB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA23D3D9-DB0E-47C6-865C-720D76175D6D}
+	EndGlobalSection
+EndGlobal
